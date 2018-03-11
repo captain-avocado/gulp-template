@@ -4,7 +4,7 @@
 
 ### Установка:
 
-    1. ```git clone https://github.com/klv-codehub/gulp-template```
+    1. git clone https://github.com/klv-codehub/gulp-template
 
     2. ```cd gulp-template```
 
