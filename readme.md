@@ -6,8 +6,8 @@
 
     1. git clone https://github.com/klv-codehub/gulp-template
 
-    2. ```cd gulp-template```
+    2. cd gulp-template
 
-    3. ```yarn```
+    3. yarn
     
-    4. ```gulp```
+    4. gulp
