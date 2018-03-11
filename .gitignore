@@ -81,3 +81,6 @@ Temporary Items
 
 #Add node_modules
 node_modules
+
+#Add build
+build
